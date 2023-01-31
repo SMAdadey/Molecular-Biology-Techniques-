@@ -1,0 +1,54 @@
+Section A: 
+There was a recent outbreak of bacterial infection in a senior high school (SHS-A) in Ghana. Samples were taken from the patients and cultured in the lab. The bacteria culture was harvested, and DNA was extracted. PCR amplification was conducted and sequenced. 
+
+Questions 
+1.	What is the length of the sequence? 
+2.	What is the percentage identity of the closest sequence to the sequence obtained (“section A” sequence)?
+3.	Which strain of microorganism is the likely cause of the disease? 
+4.	Using phylogenic analysis, explain the relatedness of the identified strain to:
+a.	Staphylococcus muscae
+b.	Staphylococcus agnetis
+c.	Macrococcus brunensis
+d.	Mammaliicoccus fleurettii
+e.	Streptococcus agalactiae
+f.	Streptococcus azizii
+
+Analysis
+Analyze the ABI sequence files for “section A” following the steps below to answer the above questions.  https://drive.google.com/drive/folders/1Ttg6UizbNGgoEEGCSmyMWAFR4qPizMpC?usp=sharing
+
+A.	Use Finch TV or Ungene Unipro to analyze the quality of the base calling of the sequences (http://ugene.net/) (https://www.google.com/search?client=firefox-b-1-d&q=finch+TV) 
+B.	Copy the edited sequence and conduct a search on NCBI BLAST (https://blast.ncbi.nlm.nih.gov/Blast.cgi) 
+C.	Look for and download the sequences listed in 3 above (https://www.ncbi.nlm.nih.gov/) 
+D.	Use Ugene Unipro to draw the phylogenic tree. 
+
+
+
+Section AB: 
+Shortly after the first outbreak in SHS-A above (section A) there was another outbreak in SHS-AB, a near by high school. The same approach was used as in “section A” above. 
+1.	Which strain of microorganism is the likely cause of the disease in SHS-AB? 
+2.	How related are the organism identified in the two school? Using a phylogenic tree, briefly explain your answer. 
+3.	Conclude on the outbreak of the disease based on the above. 
+
+ 
+Section B
+A child was diagnosed of bone marrow failure syndrome 5 disease, and she is the only child of a single parent. Her mother passed away during child delivery and she has been raised by her father. Blood samples were collected from the girl and her father, and gDNA was extracted. A putative gene was sequenced (location of the sequences, Father = Patient B, Child = Patient A, https://drive.google.com/drive/folders/1Ttg6UizbNGgoEEGCSmyMWAFR4qPizMpC?usp=sharing). 
+
+Questions:
+1.	What gene was investigated? 
+2.	What is the function of product of this gene? 
+3.	What other diseases is the gene associated with? 
+4.	List and describe in a tabular form the variants that are unique to: 
+a.	The girl
+b.	The father 
+c.	Both 
+5.	What is the consequence of the mutations identified in both the father and child? 
+
+Analysis
+Analyze the ABI sequence files following the steps below to answer the above questions.  https://drive.google.com/drive/folders/1Ttg6UizbNGgoEEGCSmyMWAFR4qPizMpC?usp=sharing
+
+A.	Use Finch TV or Ungene Unipro to analyze the quality of the base calling of the sequences (http://ugene.net/) (https://www.google.com/search?client=firefox-b-1-d&q=finch+TV) 
+B.	Copy the edited sequence and conduct a search on NCBI BLAST (https://blast.ncbi.nlm.nih.gov/Blast.cgi). 
+C.	Find out more about other disease associated with the gene on OMIM (https://www.omim.org/).
+D.	 Download the reference sequence (NM_000546.6) for the gene and use it to conduct an alignment with the patient sequences on Ugene Unipro. 
+E.	Use Ensembl (https://useast.ensembl.org/index.html) and Intervar (https://wintervar.wglab.org/) databases to evaluate the consequences of the variants common to both the father and the child. 
+
